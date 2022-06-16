@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,OACC,YAAa,CACb,cAAe,CACf,wBAAoC,CACpC,iBAAiB,CACjB,UAAY,CACZ,kBACD","file":"main.0bbcfc4c.chunk.css","sourcesContent":[".error {\n padding: 20px;\n font-size: 20px;\n background-color: rgb(108, 171, 108);\n border-radius:5px;\n color: white;\n letter-spacing: 1px;\n}"]}
